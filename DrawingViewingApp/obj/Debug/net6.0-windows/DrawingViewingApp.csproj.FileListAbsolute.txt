@@ -1,0 +1,16 @@
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\bin\Debug\net6.0-windows\DrawingViewingApp.exe
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\bin\Debug\net6.0-windows\DrawingViewingApp.deps.json
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\bin\Debug\net6.0-windows\DrawingViewingApp.runtimeconfig.json
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\bin\Debug\net6.0-windows\DrawingViewingApp.dll
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\bin\Debug\net6.0-windows\DrawingViewingApp.pdb
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.Form1.resources
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.csproj.GenerateResource.cache
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.AssemblyInfoInputs.cache
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.AssemblyInfo.cs
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.csproj.CoreCompileInputs.cache
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.dll
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\refint\DrawingViewingApp.dll
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.pdb
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\DrawingViewingApp.genruntimeconfig.cache
+C:\Users\mix123\source\repos\DrawingViewingApp\DrawingViewingApp\obj\Debug\net6.0-windows\ref\DrawingViewingApp.dll
